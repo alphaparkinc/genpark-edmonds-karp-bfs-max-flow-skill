@@ -1,0 +1,6 @@
+name: genpark-edmonds-karp-bfs-max-flow-skill
+version: 1.0.0
+description: Edmonds-Karp BFS shortest augmenting path algorithm with residual capacity updates
+command: python
+args:
+  - mcp_server.py
