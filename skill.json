@@ -1,0 +1,20 @@
+{
+  "name": "genpark-edmonds-karp-bfs-max-flow-skill",
+  "version": "1.0.0",
+  "description": "Edmonds-Karp BFS shortest augmenting path algorithm with residual capacity updates",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "edmonds-karp",
+    "ford-fulkerson",
+    "max-flow",
+    "bfs-augmenting-path",
+    "residual-capacity",
+    "python-standard-library",
+    "agent-skills",
+    "network-flow",
+    "graph-theory",
+    "combinatorics"
+  ]
+}
